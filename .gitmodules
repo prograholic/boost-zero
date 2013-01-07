@@ -189,7 +189,7 @@
 	url = https://bitbucket.org/ryppl/preprocessor.git
 [submodule "boost/program_options"]
 	path = boost/program_options
-	url = https://bitbucket.org/ryppl/program_options.git
+	url = https://bitbucket.org/prograholic/program_options.git
 [submodule "boost/property_map"]
 	path = boost/property_map
 	url = https://bitbucket.org/ryppl/property_map.git
