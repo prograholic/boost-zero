@@ -75,7 +75,7 @@
 	url = https://bitbucket.org/ryppl/exception.git
 [submodule "boost/filesystem"]
 	path = boost/filesystem
-	url = https://bitbucket.org/ryppl/filesystem.git
+	url = https://bitbucket.org/prograholic/filesystem.git
 [submodule "boost/flyweight"]
 	path = boost/flyweight
 	url = https://bitbucket.org/ryppl/flyweight.git
