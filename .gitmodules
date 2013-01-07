@@ -324,7 +324,7 @@
 	url = https://bitbucket.org/ryppl/lockfree.git
 [submodule "boost/build"]
 	path = boost/build
-	url = https://bitbucket.org/ryppl/build.git
+	url = https://bitbucket.org/prograholic/build.git
 [submodule "boost/coroutine"]
 	path = boost/coroutine
 	url = https://bitbucket.org/ryppl/coroutine.git
