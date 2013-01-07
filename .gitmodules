@@ -54,7 +54,7 @@
 	url = https://bitbucket.org/ryppl/conversion.git
 [submodule "boost/core"]
 	path = boost/core
-	url = https://bitbucket.org/ryppl/core.git
+	url = https://bitbucket.org/prograholic/core.git
 [submodule "boost/crc"]
 	path = boost/crc
 	url = https://bitbucket.org/ryppl/crc.git
