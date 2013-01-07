@@ -222,7 +222,7 @@
 	url = https://bitbucket.org/ryppl/rational.git
 [submodule "boost/regex"]
 	path = boost/regex
-	url = https://bitbucket.org/ryppl/regex.git
+	url = https://bitbucket.org/prograholic/regex.git
 [submodule "boost/scope_exit"]
 	path = boost/scope_exit
 	url = https://bitbucket.org/ryppl/scope_exit.git
