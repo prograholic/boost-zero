@@ -249,7 +249,7 @@
 	url = https://bitbucket.org/ryppl/static_assert.git
 [submodule "boost/system"]
 	path = boost/system
-	url = https://bitbucket.org/ryppl/system.git
+	url = https://bitbucket.org/prograholic/system.git
 [submodule "boost/test"]
 	path = boost/test
 	url = https://bitbucket.org/ryppl/test.git
