@@ -156,7 +156,7 @@
 	url = https://bitbucket.org/ryppl/move.git
 [submodule "boost/mpi"]
 	path = boost/mpi
-	url = https://bitbucket.org/ryppl/mpi.git
+	url = https://bitbucket.org/prograholic/mpi.git
 [submodule "boost/mpl"]
 	path = boost/mpl
 	url = https://bitbucket.org/ryppl/mpl.git
