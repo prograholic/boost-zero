@@ -300,7 +300,7 @@
 	url = https://bitbucket.org/ryppl/xpressive.git
 [submodule "ryppl"]
 	path = ryppl
-	url = https://github.com/ryppl/ryppl.git
+	url = https://github.com/prograholic/ryppl.git
 [submodule "boost/ublas"]
 	path = boost/ublas
 	url = https://bitbucket.org/ryppl/ublas.git
