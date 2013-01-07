@@ -108,7 +108,7 @@
 	url = https://bitbucket.org/ryppl/graph.git
 [submodule "boost/graph_parallel"]
 	path = boost/graph_parallel
-	url = https://bitbucket.org/ryppl/graph_parallel.git
+	url = https://bitbucket.org/prograholic/graph_parallel.git
 [submodule "boost/heap"]
 	path = boost/heap
 	url = https://bitbucket.org/ryppl/heap.git
