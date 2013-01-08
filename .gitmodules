@@ -9,7 +9,7 @@
 	url = https://bitbucket.org/ryppl/any.git
 [submodule "boost/array"]
 	path = boost/array
-	url = https://bitbucket.org/ryppl/array.git
+	url = https://bitbucket.org/prograholic/array.git
 [submodule "boost/asio"]
 	path = boost/asio
 	url = https://bitbucket.org/ryppl/asio.git
