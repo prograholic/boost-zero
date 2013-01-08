@@ -3,7 +3,7 @@
 	url = https://bitbucket.org/ryppl/accumulators.git
 [submodule "boost/algorithm"]
 	path = boost/algorithm
-	url = https://bitbucket.org/ryppl/algorithm.git
+	url = https://bitbucket.org/prograholic/algorithm.git
 [submodule "boost/any"]
 	path = boost/any
 	url = https://bitbucket.org/ryppl/any.git
