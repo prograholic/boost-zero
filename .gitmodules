@@ -6,13 +6,13 @@
 	url = https://bitbucket.org/prograholic/algorithm.git
 [submodule "boost/any"]
 	path = boost/any
-	url = https://bitbucket.org/ryppl/any.git
+	url = https://bitbucket.org/prograholic/any.git
 [submodule "boost/array"]
 	path = boost/array
 	url = https://bitbucket.org/prograholic/array.git
 [submodule "boost/asio"]
 	path = boost/asio
-	url = https://bitbucket.org/ryppl/asio.git
+	url = https://bitbucket.org/prograholic/asio.git
 [submodule "boost/assign"]
 	path = boost/assign
 	url = https://bitbucket.org/ryppl/assign.git
