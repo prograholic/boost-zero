@@ -327,7 +327,7 @@
 	url = https://bitbucket.org/prograholic/build.git
 [submodule "boost/coroutine"]
 	path = boost/coroutine
-	url = https://bitbucket.org/ryppl/coroutine.git
+	url = https://bitbucket.org/prograholic/coroutine.git
 [submodule "boost/interval"]
 	path = boost/interval
 	url = https://bitbucket.org/ryppl/interval.git
