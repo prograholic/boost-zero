@@ -18,46 +18,46 @@
 	url = https://bitbucket.org/ryppl/assign.git
 [submodule "boost/auto_index"]
 	path = boost/auto_index
-	url = https://bitbucket.org/ryppl/auto_index.git
+	url = https://bitbucket.org/prograholic/auto_index.git
 [submodule "boost/bimap"]
 	path = boost/bimap
-	url = https://bitbucket.org/ryppl/bimap.git
+	url = https://bitbucket.org/prograholic/bimap.git
 [submodule "boost/bind"]
 	path = boost/bind
-	url = https://bitbucket.org/ryppl/bind.git
+	url = https://bitbucket.org/prograholic/bind.git
 [submodule "boost/boostbook"]
 	path = boost/boostbook
-	url = https://bitbucket.org/ryppl/boostbook.git
+	url = https://bitbucket.org/prograholic/boostbook.git
 [submodule "boost/chrono"]
 	path = boost/chrono
-	url = https://bitbucket.org/ryppl/chrono.git
+	url = https://bitbucket.org/prograholic/chrono.git
 [submodule "boost/circular_buffer"]
 	path = boost/circular_buffer
-	url = https://bitbucket.org/ryppl/circular_buffer.git
+	url = https://bitbucket.org/prograholic/circular_buffer.git
 [submodule "boost/compatibility"]
 	path = boost/compatibility
-	url = https://bitbucket.org/ryppl/compatibility.git
+	url = https://bitbucket.org/prograholic/compatibility.git
 [submodule "boost/concept_check"]
 	path = boost/concept_check
-	url = https://bitbucket.org/ryppl/concept_check.git
+	url = https://bitbucket.org/prograholic/concept_check.git
 [submodule "boost/config"]
 	path = boost/config
-	url = https://bitbucket.org/ryppl/config.git
+	url = https://bitbucket.org/prograholic/config.git
 [submodule "boost/container"]
 	path = boost/container
-	url = https://bitbucket.org/ryppl/container.git
+	url = https://bitbucket.org/prograholic/container.git
 [submodule "boost/context"]
 	path = boost/context
-	url = https://bitbucket.org/ryppl/context.git
+	url = https://bitbucket.org/prograholic/context.git
 [submodule "boost/conversion"]
 	path = boost/conversion
-	url = https://bitbucket.org/ryppl/conversion.git
+	url = https://bitbucket.org/prograholic/conversion.git
 [submodule "boost/core"]
 	path = boost/core
 	url = https://bitbucket.org/prograholic/core.git
 [submodule "boost/crc"]
 	path = boost/crc
-	url = https://bitbucket.org/ryppl/crc.git
+	url = https://bitbucket.org/prograholic/crc.git
 [submodule "boost/date_time"]
 	path = boost/date_time
 	url = https://bitbucket.org/ryppl/date_time.git
