@@ -9,9 +9,14 @@
 cmake_minimum_required(VERSION 2.8.10 FATAL_ERROR)
 project(Boost)
 
+
+set(BOOST_ROOT_SOURCE_DIR ${CMAKE_CURRENT_SOURCE_DIR})
+
 list(APPEND CMAKE_MODULE_PATH "${Boost_SOURCE_DIR}/ryppl/cmake/Modules")
 
 set(RYPPL_INITIAL_PASS TRUE CACHE BOOL "")
+
+add_subdirectory(doc)
 
 add_subdirectory(boost/accumulators)
 add_subdirectory(boost/algorithm)
