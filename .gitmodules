@@ -337,3 +337,6 @@
 [submodule "boost/odeint"]
 	path = boost/odeint
 	url = https://bitbucket.org/ryppl/odeint.git
+[submodule "doc"]
+	path = doc
+	url = https://bitbucket.org/prograholic/doc.git
