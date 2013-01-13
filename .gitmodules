@@ -1,6 +1,6 @@
 [submodule "boost/accumulators"]
 	path = boost/accumulators
-	url = https://bitbucket.org/ryppl/accumulators.git
+	url = https://bitbucket.org/prograholic/accumulators.git
 [submodule "boost/algorithm"]
 	path = boost/algorithm
 	url = https://bitbucket.org/prograholic/algorithm.git
