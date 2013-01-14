@@ -87,19 +87,19 @@
 	url = https://bitbucket.org/ryppl/format.git
 [submodule "boost/function"]
 	path = boost/function
-	url = https://bitbucket.org/ryppl/function.git
+	url = https://bitbucket.org/prograholic/function.git
 [submodule "boost/function_types"]
 	path = boost/function_types
-	url = https://bitbucket.org/ryppl/function_types.git
+	url = https://bitbucket.org/prograholic/function_types.git
 [submodule "boost/functional"]
 	path = boost/functional
-	url = https://bitbucket.org/ryppl/functional.git
+	url = https://bitbucket.org/prograholic/functional.git
 [submodule "boost/fusion"]
 	path = boost/fusion
-	url = https://bitbucket.org/ryppl/fusion.git
+	url = https://bitbucket.org/prograholic/fusion.git
 [submodule "boost/geometry"]
 	path = boost/geometry
-	url = https://bitbucket.org/ryppl/geometry.git
+	url = https://bitbucket.org/prograholic/geometry.git
 [submodule "boost/gil"]
 	path = boost/gil
 	url = https://bitbucket.org/ryppl/gil.git
@@ -111,7 +111,7 @@
 	url = https://bitbucket.org/prograholic/graph_parallel.git
 [submodule "boost/heap"]
 	path = boost/heap
-	url = https://bitbucket.org/ryppl/heap.git
+	url = https://bitbucket.org/prograholic/heap.git
 [submodule "boost/icl"]
 	path = boost/icl
 	url = https://bitbucket.org/ryppl/icl.git
@@ -306,7 +306,7 @@
 	url = https://bitbucket.org/ryppl/ublas.git
 [submodule "boost/functional_hash"]
 	path = boost/functional_hash
-	url = https://bitbucket.org/ryppl/functional_hash.git
+	url = https://bitbucket.org/prograholic/functional_hash.git
 [submodule "boost/numeric_conversion"]
 	path = boost/numeric_conversion
 	url = https://bitbucket.org/ryppl/numeric_conversion.git
