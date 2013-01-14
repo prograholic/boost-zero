@@ -60,7 +60,7 @@
 	url = https://bitbucket.org/prograholic/crc.git
 [submodule "boost/date_time"]
 	path = boost/date_time
-	url = https://bitbucket.org/ryppl/date_time.git
+	url = https://bitbucket.org/prograholic/date_time.git
 [submodule "boost/detail"]
 	path = boost/detail
 	url = https://bitbucket.org/ryppl/detail.git
@@ -81,7 +81,7 @@
 	url = https://bitbucket.org/ryppl/flyweight.git
 [submodule "boost/foreach"]
 	path = boost/foreach
-	url = https://bitbucket.org/ryppl/foreach.git
+	url = https://bitbucket.org/prograholic/foreach.git
 [submodule "boost/format"]
 	path = boost/format
 	url = https://bitbucket.org/ryppl/format.git
