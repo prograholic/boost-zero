@@ -15,7 +15,7 @@
 	url = https://bitbucket.org/prograholic/asio.git
 [submodule "boost/assign"]
 	path = boost/assign
-	url = https://bitbucket.org/ryppl/assign.git
+	url = https://bitbucket.org/prograholic/assign.git
 [submodule "boost/auto_index"]
 	path = boost/auto_index
 	url = https://bitbucket.org/prograholic/auto_index.git
@@ -114,10 +114,10 @@
 	url = https://bitbucket.org/prograholic/heap.git
 [submodule "boost/icl"]
 	path = boost/icl
-	url = https://bitbucket.org/ryppl/icl.git
+	url = https://bitbucket.org/prograholic/icl.git
 [submodule "boost/inspect"]
 	path = boost/inspect
-	url = https://bitbucket.org/ryppl/inspect.git
+	url = https://bitbucket.org/prograholic/inspect.git
 [submodule "boost/integer"]
 	path = boost/integer
 	url = https://bitbucket.org/ryppl/integer.git
