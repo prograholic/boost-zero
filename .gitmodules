@@ -120,7 +120,7 @@
 	url = https://bitbucket.org/prograholic/inspect.git
 [submodule "boost/integer"]
 	path = boost/integer
-	url = https://bitbucket.org/ryppl/integer.git
+	url = https://bitbucket.org/prograholic/integer.git
 [submodule "boost/interprocess"]
 	path = boost/interprocess
 	url = https://bitbucket.org/ryppl/interprocess.git
