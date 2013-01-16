@@ -126,7 +126,7 @@
 	url = https://bitbucket.org/prograholic/interprocess.git
 [submodule "boost/intrusive"]
 	path = boost/intrusive
-	url = https://bitbucket.org/ryppl/intrusive.git
+	url = https://bitbucket.org/prograholic/intrusive.git
 [submodule "boost/io"]
 	path = boost/io
 	url = https://bitbucket.org/ryppl/io.git
@@ -135,22 +135,22 @@
 	url = https://bitbucket.org/ryppl/iostreams.git
 [submodule "boost/iterator"]
 	path = boost/iterator
-	url = https://bitbucket.org/ryppl/iterator.git
+	url = https://bitbucket.org/prograholic/iterator.git
 [submodule "boost/lambda"]
 	path = boost/lambda
-	url = https://bitbucket.org/ryppl/lambda.git
+	url = https://bitbucket.org/prograholic/lambda.git
 [submodule "boost/local_function"]
 	path = boost/local_function
-	url = https://bitbucket.org/ryppl/local_function.git
+	url = https://bitbucket.org/prograholic/local_function.git
 [submodule "boost/locale"]
 	path = boost/locale
 	url = https://bitbucket.org/ryppl/locale.git
 [submodule "boost/logic"]
 	path = boost/logic
-	url = https://bitbucket.org/ryppl/logic.git
+	url = https://bitbucket.org/prograholic/logic.git
 [submodule "boost/math"]
 	path = boost/math
-	url = https://bitbucket.org/ryppl/math.git
+	url = https://bitbucket.org/prograholic/math.git
 [submodule "boost/move"]
 	path = boost/move
 	url = https://bitbucket.org/ryppl/move.git
