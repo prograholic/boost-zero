@@ -162,7 +162,7 @@
 	url = https://bitbucket.org/ryppl/mpl.git
 [submodule "boost/msm"]
 	path = boost/msm
-	url = https://bitbucket.org/ryppl/msm.git
+	url = https://bitbucket.org/prograholic/msm.git
 [submodule "boost/multi_array"]
 	path = boost/multi_array
 	url = https://bitbucket.org/ryppl/multi_array.git
