@@ -171,7 +171,7 @@
 	url = https://bitbucket.org/ryppl/multi_index.git
 [submodule "boost/optional"]
 	path = boost/optional
-	url = https://bitbucket.org/ryppl/optional.git
+	url = https://bitbucket.org/prograholic/optional.git
 [submodule "boost/parameter"]
 	path = boost/parameter
 	url = https://bitbucket.org/ryppl/parameter.git
