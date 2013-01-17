@@ -165,7 +165,7 @@
 	url = https://bitbucket.org/prograholic/msm.git
 [submodule "boost/multi_array"]
 	path = boost/multi_array
-	url = https://bitbucket.org/ryppl/multi_array.git
+	url = https://bitbucket.org/prograholic/multi_array.git
 [submodule "boost/multi_index"]
 	path = boost/multi_index
 	url = https://bitbucket.org/ryppl/multi_index.git
@@ -309,7 +309,7 @@
 	url = https://bitbucket.org/prograholic/functional_hash.git
 [submodule "boost/numeric_conversion"]
 	path = boost/numeric_conversion
-	url = https://bitbucket.org/ryppl/numeric_conversion.git
+	url = https://bitbucket.org/prograholic/numeric_conversion.git
 [submodule "boost/numeric_interval"]
 	path = boost/numeric_interval
 	url = https://bitbucket.org/ryppl/numeric_interval.git
@@ -333,10 +333,10 @@
 	url = https://bitbucket.org/ryppl/interval.git
 [submodule "boost/multiprecision"]
 	path = boost/multiprecision
-	url = https://bitbucket.org/ryppl/multiprecision.git
+	url = https://bitbucket.org/prograholic/multiprecision.git
 [submodule "boost/odeint"]
 	path = boost/odeint
-	url = https://bitbucket.org/ryppl/odeint.git
+	url = https://bitbucket.org/prograholic/odeint.git
 [submodule "doc"]
 	path = doc
 	url = https://bitbucket.org/prograholic/doc.git
