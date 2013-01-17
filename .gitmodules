@@ -174,10 +174,10 @@
 	url = https://bitbucket.org/prograholic/optional.git
 [submodule "boost/parameter"]
 	path = boost/parameter
-	url = https://bitbucket.org/ryppl/parameter.git
+	url = https://bitbucket.org/prograholic/parameter.git
 [submodule "boost/phoenix"]
 	path = boost/phoenix
-	url = https://bitbucket.org/ryppl/phoenix.git
+	url = https://bitbucket.org/prograholic/phoenix.git
 [submodule "boost/polygon"]
 	path = boost/polygon
 	url = https://bitbucket.org/ryppl/polygon.git
