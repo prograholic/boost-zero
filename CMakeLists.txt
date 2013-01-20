@@ -138,7 +138,7 @@ if(RYPPL_INITIAL_PASS)
     "Initial pass successfully completed, now run again!"
     )
   set(RYPPL_INITIAL_PASS FALSE CACHE BOOL "" FORCE)
+else(RYPPL_INITIAL_PASS)
+  feature_summary(INCLUDE_QUIET_PACKAGES WHAT ALL)
+  # TODO Add info about disabled projects (not only packages)
 endif(RYPPL_INITIAL_PASS)
-
-
-FEATURE_SUMMARY(INCLUDE_QUIET_PACKAGES WHAT ALL)
